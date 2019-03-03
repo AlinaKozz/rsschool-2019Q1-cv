@@ -4,7 +4,7 @@
 **Mobile phone number:**  +375 (25) 970-28-79  
 **E-mail:** alina.kozz58@gmail.com  
 **Skype:** alina.kozz58  
-**LinkedIn.com:** https://www.linkedin.com/in/alina-kozyrina
+**LinkedIn.com:** [Alina Kozyrina](https://www.linkedin.com/in/alina-kozyrina)
 
 ## Summary  
 Junior developer with basic knowledge of Python and Front-end. My aim is to develop in this direction.  
