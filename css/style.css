@@ -23,7 +23,6 @@ header {
 }
 
 div.container {
-    /*position: relative;*/
     width: 100%;
     padding-right: 15px;
     padding-left: 15px;
@@ -50,11 +49,9 @@ header ul li a {
     color: #fff;
     text-transform: uppercase;
     transition: color 250ms, padding 250ms;
-    /*transition: all 1s;*/
 }
 
 header ul li a:hover {
-    font-family: 'Cinzel', serif;
     color: #000000;
 }
 
@@ -128,7 +125,6 @@ div.image {
 }
 
 .btn a {
-    text-decoration: none;
     font-family: 'Cinzel', serif;
     color: #ffffff;
     font-size: 15px;
@@ -136,8 +132,8 @@ div.image {
 }
 
 .btn:hover {
-    background-color: black;
-    color: white;
+    background-color: #000000;
+    color: #ffffff;
     letter-spacing: 2px;
 }
 
@@ -190,7 +186,7 @@ div.row-right {
 }
 
 div.row-right > a, div.row-left > a {
-    color: black;
+    color: #000000;
 }
 
 div.row-right > a:hover, div.row-left > a:hover {
@@ -198,7 +194,7 @@ div.row-right > a:hover, div.row-left > a:hover {
 }
 
 .about {
-    color: black;
+    color: #000000;
     font-family: 'Cinzel', serif;
     font-size: 2em;
     font-weight: 400;
